@@ -1,0 +1,39 @@
+{
+    "name": "mchekin/collector",
+    "type": "library",
+    "description": "PHP Dependency Manager (for practice)",
+    "keywords": [
+        "package",
+        "dependency",
+        "autoload"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Chekin",
+            "email": "mchekin@gmail.com",
+            "homepage": "https://github.com/mchekin"
+        }
+    ],
+    "require": {
+        "php": "^5.3.2 || ^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "config": {
+        "platform": {
+            "php": "5.3.9"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Collector\\": "src/Collector"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Collector\\Test\\": "tests/Collector/Test"
+        }
+    }
+}
