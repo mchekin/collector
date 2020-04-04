@@ -1,2 +1,2 @@
 # Collector
-PHP Dependency Manager (Composer clone for learning purposes).
+PHP Dependency Manager (Rebuilding Composer for learning purposes).
