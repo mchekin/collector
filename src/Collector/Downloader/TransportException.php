@@ -6,7 +6,7 @@ namespace Collector\Downloader;
 
 use RuntimeException;
 
-/** Temporary mock implementation */
+/** TODO: Temporary mock implementation. To be implemented ... */
 class TransportException extends RuntimeException
 {
 }

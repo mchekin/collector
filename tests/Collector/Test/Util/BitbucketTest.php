@@ -4,7 +4,7 @@ namespace Collector\Test\Util;
 
 use Collector\Config;
 use Collector\IO\IOInterface;
-use PHPUnit\Framework\TestCase;
+use Collector\Test\TestCase;
 use Collector\Util\Bitbucket;
 use Collector\Util\RemoteFilesystem;
 use PHPUnit_Framework_MockObject_MockObject;

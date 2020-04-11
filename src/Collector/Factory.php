@@ -7,7 +7,7 @@ namespace Collector;
 use Collector\IO\IOInterface;
 use Collector\Util\RemoteFilesystem;
 
-/** Temporary mock implementation */
+/** TODO: Temporary mock implementation. To be implemented ... */
 class Factory
 {
     /**

@@ -4,7 +4,7 @@
 namespace Collector;
 
 
-/** Temporary mock implementation */
+/** TODO: Temporary mock implementation. To be implemented ... */
 class Config
 {
     public function get($name)

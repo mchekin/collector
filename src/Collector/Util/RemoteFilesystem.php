@@ -4,7 +4,7 @@
 namespace Collector\Util;
 
 
-/** Temporary mock implementation */
+/** TODO: Temporary mock implementation. To be implemented ... */
 class RemoteFilesystem
 {
     /**
