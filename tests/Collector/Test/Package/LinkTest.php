@@ -1,6 +1,6 @@
 <?php
 
-namespace Collector\Test\Util;
+namespace Collector\Test\Package;
 
 use Collector\Package\PackageInterface;
 use Collector\Test\TestCase;
