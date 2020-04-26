@@ -5,6 +5,9 @@ namespace Collector\Package;
 use Composer\Semver\Constraint\ConstraintInterface;
 use UnexpectedValueException;
 
+/**
+ * Represents a link between two packages, represented by their names
+ */
 class Link
 {
     /**

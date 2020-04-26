@@ -4,6 +4,9 @@ namespace Collector\Util;
 
 use Collector\IO\IOInterface;
 
+/**
+ * Convert PHP errors into exceptions
+ */
 class ErrorHandler
 {
     /**

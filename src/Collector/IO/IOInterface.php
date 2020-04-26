@@ -5,6 +5,9 @@ namespace Collector\IO;
 
 use Collector\Config;
 
+/**
+ * The Input/Output helper interface.
+ */
 interface IOInterface
 {
     const QUIET = 1;

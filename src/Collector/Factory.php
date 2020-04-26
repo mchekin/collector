@@ -8,6 +8,10 @@ use Collector\IO\IOInterface;
 use Collector\Util\RemoteFilesystem;
 
 /** TODO: Temporary mock implementation. To be implemented ... */
+
+/**
+ * Creates a configured instance of composer.
+ */
 class Factory
 {
     /**

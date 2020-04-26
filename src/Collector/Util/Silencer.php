@@ -3,6 +3,9 @@
 
 namespace Collector\Util;
 
+/**
+ * Temporarily suppress PHP error reporting, usually warnings and below.
+ */
 class Silencer
 {
     /**

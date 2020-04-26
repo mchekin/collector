@@ -4,6 +4,9 @@ namespace Collector\Package;
 
 use Collector\Repository\RepositoryInterface;
 
+/**
+ * Defines the essential information a package has that is used during solving/installation
+ */
 interface PackageInterface
 {
     /**
